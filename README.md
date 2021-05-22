@@ -49,4 +49,3 @@ Your main.py config should look something like this
 ---
 
 Start the main.py script and have fun!
-Keeping the file running for about 10 minutes will be enough, thanks!
