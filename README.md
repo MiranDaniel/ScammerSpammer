@@ -1,6 +1,6 @@
 # ScammerSpammer
-
-
+Spammer of fake WalletConnect websites.
+---
 The scam website should look like this.
 ![image](https://user-images.githubusercontent.com/31164847/119242212-61600480-bb5c-11eb-8e37-fc6243199951.png)
 ![image](https://user-images.githubusercontent.com/31164847/119242203-4ee5cb00-bb5c-11eb-86f0-51d3e1392fed.png)
