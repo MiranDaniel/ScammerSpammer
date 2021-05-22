@@ -32,7 +32,7 @@ def sender():
         words = " ".join([random.choice(ava) for i in range(random.choice([12,24]))])
         requests.post(SEND,data={"key":words,"user_id":USER},headers=headers)
         global s
-        print(s)
+        print(f"Sent")
         s += 1
 
 for i in range(500):
